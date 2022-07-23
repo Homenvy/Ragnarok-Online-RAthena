@@ -1,0 +1,5 @@
+userid: username
+passwd: password
+char_ip: 127.0.0.1
+login_ip: 127.0.0.1
+server_name: Enhasa
